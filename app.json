@@ -1,7 +1,7 @@
 {
-  "name": "Ultraviolet App",
-  "description": "Node.js Ultraviolet instance",
-  "repository": "https://github.com/titaniumnetwork-dev/Ultraviolet-App",
+  "name": "Revela App",
+  "description": "Node.js Revela instance",
+  "repository": "https://github.com/RevelaNetwork/Revela-App",
   "logo": "https://raw.githubusercontent.com/titaniumnetwork-dev/Ultraviolet-Static/main/public/uv.png",
-  "keywords": ["tomp", "ultraviolet"]
+  "keywords": ["tomp", "revela"]
 }
